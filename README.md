@@ -1,0 +1,4 @@
+- 👋 Hi, I’m mohammad moien taghi molaii
+- 👀 I’m interested in proggraming.
+- 🌱 I’m currently learning to Object Detection.
+- 📫 How to message me -> my email : taghimolaii@gmail.com
